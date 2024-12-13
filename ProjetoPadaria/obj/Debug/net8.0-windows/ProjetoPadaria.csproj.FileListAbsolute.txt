@@ -1,0 +1,17 @@
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\bin\Debug\net8.0-windows\ProjetoPadaria.exe
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\bin\Debug\net8.0-windows\ProjetoPadaria.deps.json
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\bin\Debug\net8.0-windows\ProjetoPadaria.runtimeconfig.json
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\bin\Debug\net8.0-windows\ProjetoPadaria.dll
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\bin\Debug\net8.0-windows\ProjetoPadaria.pdb
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.Form1.resources
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.Properties.Resources.resources
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.csproj.GenerateResource.cache
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.AssemblyInfoInputs.cache
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.AssemblyInfo.cs
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.csproj.CoreCompileInputs.cache
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.dll
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\refint\ProjetoPadaria.dll
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.pdb
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ProjetoPadaria.genruntimeconfig.cache
+C:\Users\f3lip\source\repos\ProjetoPadaria\ProjetoPadaria\obj\Debug\net8.0-windows\ref\ProjetoPadaria.dll

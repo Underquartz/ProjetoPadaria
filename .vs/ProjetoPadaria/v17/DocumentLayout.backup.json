@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\f3lip\\source\\repos\\ProjetoPadaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D33845F-7477-42A0-98D0-2FCC114CA652}|ProjetoPadaria\\ProjetoPadaria.csproj|c:\\users\\f3lip\\source\\repos\\projetopadaria\\projetopadaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D33845F-7477-42A0-98D0-2FCC114CA652}|ProjetoPadaria\\ProjetoPadaria.csproj|solutionrelative:projetopadaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D33845F-7477-42A0-98D0-2FCC114CA652}|ProjetoPadaria\\ProjetoPadaria.csproj|c:\\users\\f3lip\\source\\repos\\projetopadaria\\projetopadaria\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D33845F-7477-42A0-98D0-2FCC114CA652}|ProjetoPadaria\\ProjetoPadaria.csproj|solutionrelative:projetopadaria\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D33845F-7477-42A0-98D0-2FCC114CA652}|ProjetoPadaria\\ProjetoPadaria.csproj|c:\\users\\f3lip\\source\\repos\\projetopadaria\\projetopadaria\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D33845F-7477-42A0-98D0-2FCC114CA652}|ProjetoPadaria\\ProjetoPadaria.csproj|solutionrelative:projetopadaria\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\ProjetoPadaria\\ProjetoPadaria\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoPadaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\f3lip\\source\\repos\\ProjetoPadaria\\ProjetoPadaria\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ProjetoPadaria\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:25:58.952Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\ProjetoPadaria\\ProjetoPadaria\\Form2.cs",
+              "RelativeDocumentMoniker": "ProjetoPadaria\\Form2.cs",
+              "ToolTip": "C:\\Users\\f3lip\\source\\repos\\ProjetoPadaria\\ProjetoPadaria\\Form2.cs [Projeto]",
+              "RelativeToolTip": "ProjetoPadaria\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:49:59.475Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\f3lip\\source\\repos\\ProjetoPadaria\\ProjetoPadaria\\Form3.cs",
+              "RelativeDocumentMoniker": "ProjetoPadaria\\Form3.cs",
+              "ToolTip": "C:\\Users\\f3lip\\source\\repos\\ProjetoPadaria\\ProjetoPadaria\\Form3.cs [Projeto]",
+              "RelativeToolTip": "ProjetoPadaria\\Form3.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:57:51.138Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
